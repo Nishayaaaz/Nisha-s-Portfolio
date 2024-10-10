@@ -14,12 +14,12 @@ export default function Projects() {
             {
                 image: websiteImg2,
                 description: 'Food Ecommerce website like Swiggy, Built with Angular & .Net',
-                link: 'https://github.com/Nishayaaz/food'
+                link: 'https://github.com/Nishayaaaz/React-To-Do.git'
             },
             {
                 image: websiteImg3,
                 description: 'Basic Blog Website . Built with Next JS and MongoDB',
-                link: 'https://github.com/Nishayaaz/blog'
+                link: 'https://github.com/Nishayaaaz/Crud.git'
             }
         ]
     }
