@@ -2,7 +2,7 @@ import ResumeImg from '../assets/resume.jpg';
 
 export default function Resume () {
     const config = {
-        link: 'https://acrobat.adobe.com/id/urn:aaid:sc:AP:41c79334-d140-4675-b4e9-edc3440f6520'
+        link: 'https://acrobat.adobe.com/link/file?x_api_client_id=adobe_com&x_api_client_location=add_comment&uri=urn%3Aaaid%3Asc%3AAP%3A13ee1cf9-9f32-4a14-bdf7-b65e9a04df23&viewer%21megaVerb=group-discover'
     }
 
     return <section id='resume' className='flex flex-col md:flex-row bg-secondary px-5'>

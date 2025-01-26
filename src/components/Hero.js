@@ -6,15 +6,15 @@ export default function Hero() {
         subtitle: 'Im a Full-stack developer and Designer',
         social: {
             twitter: 'https://twitter.com/nisha',
-            facebook: 'https://facebook.com/nisha',
-            linkedin: 'https://linkedin.com/in/nisha-a-40116520a'
+            facebook: 'https://www.facebook.com/profile.php?id=61565724113096',
+            linkedin: 'https://www.linkedin.com/in/nishayaaz/'
         }
     }
 
 
     return <section className='flex flex-col md:flex-row px-5 py-32 bg-primary justify-center'>
        <div className='md:w-1/2 flex flex-col'>
-            <h1 className=' text-white text-6xl font-hero-font'>Hi, <br/> Im <span className='text-black'>A</span> Nisha
+            <h1 className=' text-white text-6xl font-hero-font'>Hi, <br/> Im <span className='text-white'>A</span> Nisha
                 <p className='text-2xl'>{config.subtitle}</p>
             </h1>
             <div className='flex py-10'>
